@@ -3,4 +3,5 @@
 
 int main(){
   printf("Ciao\n");
+  printf("Come stai?");
 }
